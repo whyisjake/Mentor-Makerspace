@@ -683,7 +683,7 @@
       "debugStyle" : 0
     },
     "\/sass\/application.scss" : {
-      "ignoreWasSetByUser" : 0,
+      "ignoreWasSetByUser" : 1,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
